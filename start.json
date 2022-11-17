@@ -1,0 +1,5 @@
+{
+  "name": "Casa",
+  "version": "1.0.0",
+  "parameter": "menu:http://192.168.0.12:1880/msx/menu"
+}
